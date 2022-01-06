@@ -14,7 +14,7 @@ body {
   color: var(--mainColor);
   font-family: var(--fontFamily);
   background-color: var(--backColor);
-  cursor: url("../src/dry-clean.png"), auto;
+  cursor: url("dry-clean.png"), auto;
 }
 * {
   box-sizing: border-box;
@@ -52,7 +52,7 @@ h1 {
 }
 
 .box:hover {
-  cursor: url("//src/pointer.png"), auto;
+  cursor: url("pointer.png"), auto;
 }
 
 button {

@@ -33,7 +33,7 @@ const app = initializeApp(
         const password = txtPassword.value;
         try {
             const userCredential = await  signInWithEmailAndPassword(auth,login,password);
-            window.location.href="../app.html";
+            window.location.href="app.html";
             
             
         }
@@ -71,7 +71,7 @@ const app = initializeApp(
         try {
              const userCredential = await createUserWithEmailAndPassword(auth,login,password);
              errLabel.innerText = 'Account has been created';
-             window.location.href = "../app.html";
+             window.location.href = "app.html";
         }
         catch(error) {
             console.log(error);
@@ -88,7 +88,7 @@ const app = initializeApp(
     document.getElementById('googleBtn').addEventListener('click', () => {
         signInWithPopup(auth, provider)
         .then((result) => {
-            window.location.href="../app.html";
+            window.location.href="app.html";
           
           const credential = GoogleAuthProvider.credentialFromResult(result);
           const token = credential.accessToken;

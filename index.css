@@ -13,7 +13,7 @@
 }
 body {
   background-color: var(--backColor);
-  cursor: url("../src/dry-clean.png"), auto;
+  cursor: url("dry-clean.png"), auto;
 }
 .form-wrapper {
   margin: 3em auto;
