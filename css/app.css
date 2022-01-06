@@ -1,0 +1,77 @@
+@import url("https://fonts.googleapis.com/css2?family=Staatliches&display=swap");
+:root {
+  --mainColor: #111213;
+  --fontFamily: "Staatliches", cursive;
+  --backColor: #daf7a6;
+}
+::selection {
+  color: #b2f7a6;
+  background: black;
+}
+body {
+  margin: 0;
+  padding: 0;
+  color: var(--mainColor);
+  font-family: var(--fontFamily);
+  background-color: var(--backColor);
+  cursor: url("../src/dry-clean.png"), auto;
+}
+* {
+  box-sizing: border-box;
+}
+
+h1 {
+  font-size: 54px;
+  text-transform: uppercase;
+}
+
+.container {
+  padding: 40px;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+#gameboard {
+  margin-top: 40px;
+  display: flex;
+  flex-wrap: wrap;
+  width: 450px;
+}
+
+.box {
+  height: 150px;
+  width: 150px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 150px;
+  color: var(--mainColor);
+}
+
+.box:hover {
+  cursor: url("//src/pointer.png"), auto;
+}
+
+button {
+  padding: 10px 20px;
+  border-radius: 7px;
+  background-color: var(--mainColor);
+  color: white;
+  border-color: var(--mainColor);
+  font-size: 18px;
+  transition: 200ms transform;
+  font-family: var(--fontFamily);
+}
+
+button:hover {
+  cursor: pointer;
+  transform: translateY(-3px);
+}
+
+#logOut {
+  margin-left: 1300px;
+  margin-top: 16px;
+}

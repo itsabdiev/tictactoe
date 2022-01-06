@@ -1,0 +1,73 @@
+@import url("https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@300&family=Staatliches&display=swap");
+:root {
+  --mainColor: #111213;
+  --fontFamily: "Staatliches", cursive;
+  --backColor: #daf7a6;
+}
+::selection {
+  color: #b2f7a6;
+  background: black;
+}
+* {
+  font-family: var(--fontFamily);
+}
+body {
+  background-color: var(--backColor);
+  cursor: url("../src/dry-clean.png"), auto;
+}
+.form-wrapper {
+  margin: 3em auto;
+  padding: 0 1em;
+  max-width: 370px;
+}
+
+h1 {
+  text-align: center;
+  padding: 1em 0;
+}
+
+form {
+  padding: 0 1.5em;
+}
+
+.form-item {
+  margin-bottom: 0.75em;
+  width: 100%;
+}
+
+.form-item input {
+  border-radius: 7px;
+  border-bottom: 2px solid #e9e9e9;
+  font-size: 1em;
+  height: 30px;
+  transition: border-color 0.3s;
+  width: 100%;
+  border-color: var(--mainColor);
+  font-family: "Big Shoulders Display", cursive;
+  font-weight: 600;
+  font-size: large;
+}
+
+.button-panel {
+  margin: 2em 0 0;
+  width: 80%;
+  margin-left: 35px;
+}
+
+.button-panel .button {
+  background: var(--mainColor);
+  border-radius: 7px;
+  border-color: var(--mainColor);
+  color: #fff;
+  cursor: pointer;
+  height: 50px;
+  font-size: 1.2em;
+  letter-spacing: 0.05em;
+  text-align: center;
+  transition: 200ms transform;
+  width: 100%;
+}
+
+.button:hover {
+  transform: translateY(-3px);
+}
