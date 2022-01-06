@@ -1,10 +1,10 @@
-__MP3 PLayer 🔊__  <br />
+__Tic Tac Toe 🔥__  <br />
 <br />
-<img align="center" alt="Java " width="550px" src="https://github.com/itsabdiev/Music-PLayer/blob/main/images/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20(2).png" />  <br />
+<img align="center" alt="Java " width="550px" src="https://github.com/itsabdiev/tictactoe/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA1.PNG" />  <br />
     <br />
    
    
-<img align="center" alt="Java " width="550px" src="https://github.com/itsabdiev/Music-PLayer/blob/main/images/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20(4).png" />  <br />
+<img align="center" alt="Java " width="550px" src="https://github.com/itsabdiev/tictactoe/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA.PNG" />  <br />
     <br />    
     
     
@@ -25,11 +25,11 @@ __MP3 PLayer 🔊__  <br />
   
  
 <!--START_SECTION:activity-->
-1. 🎨 Working on design of mp3 player
+1. 🎨 Working on design of Website
 2. 🧩 Creating structure of code
-3. 💾 Using mp3 libraries
-4. 🎧 End of work
-5. 😎 Enjoy
+3. 💾 Using Firebase libraries
+4. 🕸  Google
+5. 😎 Enjoy playing against Bot
 <!--END_SECTION:activity-->
 
 </details>
