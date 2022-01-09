@@ -2,7 +2,7 @@ __Tic Tac Toe 🔥__  <br />
 <br />
 [My website ](https://tictactoe-abdiev.firebaseapp.com/) <br>
 [Feedbacks](https://tictactoe-abdiev.firebaseapp.com/) <br>
-[Presentation](https://www.youtube.com/watch?v=m6bsIuKyUSs)
+[Presentation](https://www.youtube.com/watch?v=BJ0P_BAeW7A)
 
 <img align="center" alt="Java " width="550px" src="https://github.com/itsabdiev/tictactoe/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA1.PNG" />  <br />
     <br />
@@ -45,4 +45,4 @@ __Tic Tac Toe 🔥__  <br />
 [website]: https://tictactoe-abdiev.web.app/app.html
 [Javascript]: https://www.javascript.com/
 [Firebase]: https://firebase.google.com/
-[youtube]: https://www.youtube.com/watch?v=m6bsIuKyUSs
+[youtube]: https://www.youtube.com/channel/UCEuLEEzKAAwwezAIFld1HOw
