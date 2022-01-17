@@ -1,7 +1,7 @@
 __Tic Tac Toe 🔥__  <br />
 <br />
 [My website ](https://tictactoe-abdiev.firebaseapp.com/) <br>
-[Feedbacks](https://docs.google.com/document/d/1Cj35M9i_-XCLfJnbjudx9V7smcLSh81Q/edit?usp=sharing&ouid=110541802572761282616&rtpof=true&sd=true) <br>
+[Feedbacks](https://docs.google.com/document/d/10xTK8G11TRNS3gES39bkdL2mgtBM167g/edit?usp=sharing&ouid=110541802572761282616&rtpof=true&sd=true) <br>
 [Presentation](https://www.youtube.com/watch?v=BJ0P_BAeW7A)
 
 <img align="center" alt="Java " width="550px" src="https://github.com/itsabdiev/tictactoe/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA1.PNG" />  <br />
